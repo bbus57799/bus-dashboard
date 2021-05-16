@@ -1,0 +1,4 @@
+{
+    "api_url": "https://bus-dashboard-api.herokuapp.com",
+    "overcrowded_threshold": 50
+}
